@@ -19,3 +19,5 @@ The company you're interviewing with has given you until 4:00pm today to submit 
 Refer to the [slides/notes](notes.md) from today if you'd like. 
 
 Also feel free to check out [this general feedback form](https://docs.google.com/document/d/19AwHZFki1TTBjuz5-tn8Rrk25rmwioqnRZYpDR-hESU/edit?usp=sharing) (google doc) we'll use later today to go over your work.
+
+Each challenge also includes a challenge-specific rubric you can reference as you evaluate your work.
