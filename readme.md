@@ -1,4 +1,4 @@
-# Take-Home Coding Challenge Examples
+# Take-Home Coding Challenge Workshop
 
 Take-home coding challenge workshop coding challenges live here. See Resources section below for slides and rubric(s).
 
