@@ -1,6 +1,6 @@
 # Take-Home Coding Challenge Examples
 
-Take-home coding challenge workshop coding challenges live here.
+Take-home coding challenge workshop coding challenges live here. See Resources section below for slides and rubric(s).
 
 ## Workflow
 
