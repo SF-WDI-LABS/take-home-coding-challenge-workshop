@@ -1,6 +1,6 @@
 #Sample Readme
 
-Demonstrates a generic structure for take-home coding challenge readmes.
+Demonstrates a generic structure for take-home coding challenge readmes, with a hypothetical challenge to allow users to search a movie database api.
 
 ## Usage
 
@@ -19,13 +19,8 @@ Instant search is not a good choice for the main search functionality that hits 
 The api returns 10 results at a time, so the max number of results that will currently show up is 10. There could easily be hundreds of actual matches.  If all were returned, paging the results might be useful. As it stands, the 10 result limit makes it harder to find a desired record (at least by partial title) because it may not be among the chosen 10 results. Allowing users access to api's "year" and "type" search fields would make it more likely that the desired record appeared among the results returned. 
 
 ### Human-Readable URLs
-While the database IDs returned by the api are not great film identifiers for humans, they are the most convenient unique ones available from the data. Human-readable urls could be achieved with 
+While the database IDs returned by the api are not great film identifiers for humans, they are the most convenient unique ones available from the data. Human-readable urls could be achieved with external libraies or by mapping ids to some combination of other fields for use in the url.
 
-### Needs Styling
-Enough said.
-
-## Acknowledgements
-[Angular's phone catalog tutorial](https://github.com/angular/angular-phonecat) was used for the base file structure for this project and was among references consulted during development.
 
 ## Contact
-Please send any feedback to <b.g.veenstra@gmail.com>.
+Please send any feedback to <my.email@example.com>.
