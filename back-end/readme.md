@@ -8,7 +8,7 @@ GACon is looking for someone to design a RESTful API for data for talks at a con
 - Include routes to:  
 	- add a talk  
 	- add an attendee  
-	- add an attendee to the list for a talk  
+	- add an attendee to the list of attendees for a talk  
 
 ## Bonuses:
 
