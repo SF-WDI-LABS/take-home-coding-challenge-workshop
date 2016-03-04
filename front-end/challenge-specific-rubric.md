@@ -43,7 +43,7 @@ GA is designing a new site aimed at young learners (kindergarten to high school 
 
   - Reference existing GA site design.  
 
-  - Mention the fact that some of the site's users will be children, and/or discuss design elements to reflect this.  
+  - Mention the fact that some of the site's users will be children, and/or discuss how the site could reflect this.
   
   - If using a framework like Bootstrap, add custom CSS to distinguish this site from others using the framework.   
   
