@@ -14,14 +14,12 @@ GA is designing a new site aimed at young learners (kindergarten to high school 
   - Include at least one *breakpoint* where the layout changes.
 
 
-
-
 **Demonstrate knowledge of software construction patterns and best practices.**
 
 
   - Encapsulate login/logout bonus button feature in a function so that if a backend is added the changes required are limited to one area.
 
-  - Include a CSS file and link it properly in the head of the html document. 
+  - Include a separate CSS file and link it properly in the head of the html document. 
   
 
 
@@ -39,16 +37,16 @@ GA is designing a new site aimed at young learners (kindergarten to high school 
 
   - If not using a framework, use media queries to create responsive effect, and justify choice of breakpoint.   
 
-  - Bonus: create a page that looks reasonable without JavaScript loaded ("progressive enhancement").
-
 
 
 **Demonstrate awareness of real-world technical development practices and concerns related to the target company, including testing and security.**  
 
-  - Bonus: Describes basic user stories; that is, what should users be able to do with this navbar?  
-
-  - If using a framework like Bootstrap, add custom CSS to distinguish this site from others using the framework.   
-
   - Reference existing GA site design.  
 
   - Mention the fact that some of the site's users will be children, and/or discuss design elements to reflect this.  
+  
+  - If using a framework like Bootstrap, add custom CSS to distinguish this site from others using the framework.   
+  
+  - Bonus: Describes basic user stories; that is, what should users be able to do with this navbar?  
+  
+  - Bonus: Create a page that looks reasonable without JavaScript loaded ("progressive enhancement").
