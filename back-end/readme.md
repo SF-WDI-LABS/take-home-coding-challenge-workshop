@@ -6,11 +6,10 @@ GACon is looking for someone to design a RESTful API for data for talks at a con
 
 - Demonstrate use of REST conventions  
 - Include routes to:  
-	- add a talk  
-	- add an attendee  
-	- add an attendee to the list of attendees for a talk  
+	- view all talks
+	- view one talk 
 
 ## Bonuses:
 
 - Use appropriate HTTP status codes.  
-- Include a route to remove a talk.  
+- Include a route to add an attendee to a talk.
