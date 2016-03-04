@@ -23,7 +23,7 @@ GACon is looking for someone to design a RESTful API for data for talks at a con
   	- GET baseurl/talks to see all talks  
   	- GET baseurl/attendees to see all attendees  
 
-  - Bonus: include (and documente) other routes to interact with talk or attendee data
+  - Bonus: include (and document) other routes to interact with talk or attendee data.
 
 
 **Consider design and implementation alternatives and make decisions based on relevant characteristics of the problem and available tools.**
