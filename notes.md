@@ -132,9 +132,10 @@ Submit a compressed project directory by email to coding.challenge@company.org. 
 
 **What stands out about this coding challenge description?**
 
-- Will there only be one user *ever* or one user at a time? (Do I need a user model?)
-- Should this be a website or a mobile app?
+- Will this be a website or a mobile app?
 - When is this due? Do I count weekends? Do I need to have it in by 5:00pm or would 11:59pm be okay?
+- Where is the income/spending data coming from? Some api?
+- What kind of compressed file: .zip, .rar, .7z?
 
 ### Steps for Approaching a Coding Challenge
 
@@ -179,6 +180,18 @@ Submit a compressed project directory by email to coding.challenge@company.org. 
 - Write tests (unless TDD was required).
 - Refactor.
 - Work on bonuses.
+
+
+## Sample Take Home Challenge Scoring System
+
+100 + 10 points available
+
+Award:
+- 50 points for code that works and meets prompt requirements
+- 20 points for code style (indentation, naming, following language conventions, comments)
+- 20 points for code organization (separation of concerns, reusability, DRY)
+- 10 points for readme
+- 10 bonus points for tests
 
 
 ## Technical Vocabulary
