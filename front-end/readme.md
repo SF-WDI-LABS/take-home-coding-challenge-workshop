@@ -4,17 +4,17 @@ GA is designing a new site for K-12 learners to access GA courses and content. U
 
 ## Requirements:
 
-- Demonstrate use of web standards including HTML5.  
-- Use a separate CSS file.   
+- Demonstrate use of web standards including valid HTML5.  
+- Use an external stylesheet CSS file.   
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
 - Follow the style guidelines listed below.  
-- Add buttons or links to login/logout.  
+- Add buttons or links to login/logout.  Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.  
+
 
 ## Bonuses
 
 - Use SASS or LESS to pre-compile your CSS.   
 - Add a CSS animation with transitions.   
-- Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.  
 
 ## Styling Guidelines
 
