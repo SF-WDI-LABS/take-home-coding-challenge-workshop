@@ -1,6 +1,6 @@
 # Front End Engineering Challenge - Rubric
 
-GA is designing a new site aimed at K-12 learners to access some GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar for this site with login/logout.
+GA is designing a new site aimed at young learners (kindergarten to high school students) to access some GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar for this site with login/logout.
 
 
 ## Some of our most successful candidates...
