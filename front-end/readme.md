@@ -1,10 +1,10 @@
 # Front End Engineering Challenge
 
-GA is designing a new site for K-12 learners to access GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. You can start with the code in index.html or create your own project.
+GA is designing a new site for K-12 learners to access GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. 
 
 ## Requirements:
 
-- Demonstrate use of web standards including valid HTML5.  
+- Demonstrate use of web standards including HTML5.  
 - Use an external stylesheet CSS file.   
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
 - Follow the style guidelines listed below.  
@@ -13,7 +13,7 @@ GA is designing a new site for K-12 learners to access GA courses and content. U
 
 ## Bonuses
 
-- Use SASS or LESS to pre-compile your CSS.   
+- Use SASS or LESS and compile to CSS.   
 - Add a CSS animation with transitions.   
 
 ## Styling Guidelines
