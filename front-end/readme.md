@@ -1,6 +1,6 @@
 # Front End Engineering Challenge
 
-GA is piloting a program - GALAXY - to for high school students to access some online GA courses and workshops.
+GA is piloting a program - GALAXY - for high school students to access some online GA courses and workshops.
 
 Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young learner site. The navbar should include links to information for students, teachers, and parents, as well as a sign in / sign out link.
 
