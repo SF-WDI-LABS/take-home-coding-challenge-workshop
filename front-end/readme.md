@@ -1,6 +1,6 @@
 # Front End Engineering Challenge
 
-GA is designing a new site for K-12 learners to access GA courses and content. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. 
+GA is designing a new site for K-12 learners to access GA courses and content. Most of these students will access the site on desktop computers or tablets owned by their schools. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. 
 
 ## Requirements:
 
