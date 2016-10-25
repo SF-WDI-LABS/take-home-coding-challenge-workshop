@@ -1,25 +1,36 @@
 # Front End Engineering Challenge
 
-GA is designing a new site for K-12 learners to access GA courses and content. Most of these students will access the site on desktop computers or tablets owned by their schools. Use CSS, HTML, and JavaScript to develop a responsive navbar with login/logout. 
+GA is piloting a program - GALAXY - to for high school students to access some online GA courses and workshops.
+
+Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young learner site. The navbar should include links to information for students, teachers, and parents, as well as a sign in / sign out link.
 
 ## Requirements:
 
 - Demonstrate use of web standards including HTML5 with appropriate metadata.  
 - Use an external stylesheet.   
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
-- Follow the style guidelines listed below.  
-- Add buttons or links to login/logout.  Use JavaScript to control whether the login or the logout button is shown; only one should be visible at a time.  
-
+- Include sections
+- Follow the style guidelines listed below and the mockup image.  
+- Add buttons or links to login/logout.  Use JavaScript to control whether the login or the logout button is shown. Only one should be visible at a time.  
+- Add a CSS animations - see [https://generalassemb.ly/](https://generalassemb.ly/).
 
 ## Bonuses
 
+- Implement other portions of the site.
 - Use SASS or LESS and compile to CSS.   
-- Add a CSS animation with transitions.   
+- Show you know General Assembly's brand.
 
 ## Styling Guidelines
 
-- Use the "Roboto" Google font   
-- Use the following colors   
-	- Page background: #FFFFFF    
-	- Default/normal font color: #494949   
-	- Navbar background: #83EDD9   
+- Fonts:
+   - "Roboto" Google font for brand.
+	 - Helvetica for other headers.
+	 - A serif font for content and navbar links.
+- Colors:   
+	- Navbar background: #000    
+	- Navbar text: #FFF
+	- GA brand red: #f6201d
+
+## Mockup
+
+![GALAXY](https://cloud.githubusercontent.com/assets/3254910/19701812/dcf5e748-9ab1-11e6-8fc4-6a8f6b973cfb.png)
