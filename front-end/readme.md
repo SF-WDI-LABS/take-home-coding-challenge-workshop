@@ -33,4 +33,4 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 
 ## Mockup
 
-![GALAXY](https://cloud.githubusercontent.com/assets/3254910/19701812/dcf5e748-9ab1-11e6-8fc4-6a8f6b973cfb.png)
+<img src="https://cloud.githubusercontent.com/assets/3254910/19701812/dcf5e748-9ab1-11e6-8fc4-6a8f6b973cfb.png" alt="GALAXY mockup" width="70%">
