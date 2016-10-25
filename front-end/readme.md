@@ -2,15 +2,15 @@
 
 GA is piloting a program - GALAXY - for high school students to access some online GA courses and workshops.
 
-Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young learner site. The navbar should include links to information for students, teachers, and parents, as well as a sign in / sign out link.
+Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young learner site. 
 
 ## Requirements:
 
 - Demonstrate use of web standards including HTML5 with appropriate metadata.  
 - Use an external stylesheet.   
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
-- Include sections
 - Follow the style guidelines listed below and the mockup image.  
+- Include navbar links to information for students, teachers, and parents, as well as a sign in / sign out link.
 - Add buttons or links to login/logout.  Use JavaScript to control whether the login or the logout button is shown. Only one should be visible at a time.  
 - Add a CSS animations - see [https://generalassemb.ly/](https://generalassemb.ly/).
 
