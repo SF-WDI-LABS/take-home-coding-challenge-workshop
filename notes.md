@@ -38,7 +38,7 @@
 
 **Examples:**
 
-- Parse the given log file for some information. (Find the total number of errors with a status code in the 400s.)
+- Parse the given log file to find the total number of errors with a status code in the 400s.
 - Design and code a system for tracking users’ budgets.
 - Implement a front end based on a screenshot or screenshots.
 
@@ -70,7 +70,7 @@
 - Testing is a *huge bonus*, often required (rspec, chai, selenium)
 - Even if you don’t have time to write tests, mention testing in Readme
 
-### Best Practices: Drilling Down on Documentation
+### Best Practices: Drilling Down on Documentation 
 
 **Readme: everything necessary to run and extend this code**
 - Project name and description/goal
@@ -116,8 +116,6 @@
 - Full stack? Don’t forget to pay attention to front end and styling.
 - *Never* forget user experience or testing.
 
-## Break
-
 ## Coding Challenge Attack Plan
 
 ### Sample Coding Challenge
@@ -136,6 +134,7 @@
 - When is this due? Do I count weekends? Do I need to have it in by 5:00pm or would 11:59pm be okay?
 - Where is the income/spending data coming from? Some api?
 - What kind of compressed file: .zip, .rar, .7z?
+
 
 ### Steps for Approaching a Coding Challenge
 
