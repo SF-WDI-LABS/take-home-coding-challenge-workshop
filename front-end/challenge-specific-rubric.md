@@ -24,7 +24,7 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 
   - Include a separate CSS file and link it properly in the head of the html document.
 
-  - Include metadata like <title>, as well as charset, viewport, and description <meta> tags.
+  - Include metadata like `<title>`, as well as charset, viewport, and description `<meta>` tags.
 
   - Bonus: Create a page that looks reasonable without JavaScript loaded ("progressive enhancement").
 
