@@ -122,13 +122,13 @@
 
 ### Sample Coding Challenge
 
-```
-Design and implement a site to help a person track his or her budget. Start out by assuming there will only be one user for the app. 
 
-The user should be able to see their balance and enter in transactions that reduce or increase the amount of money available.
+> Design and implement a site to help a person track his or her budget. Start out by assuming there will only be one user for the app. 
 
-Submit a compressed project directory by email to coding.challenge@company.org.  You have three days to work on this challenge. 
-```
+> The user should be able to see their balance and enter in transactions that reduce or increase the amount of money available.
+
+> Submit a compressed project directory by email to coding.challenge@company.org.  You have three days to work on this challenge. 
+
 
 **What stands out about this coding challenge description?**
 
