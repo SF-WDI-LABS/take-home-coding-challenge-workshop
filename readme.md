@@ -4,7 +4,7 @@ Take-home coding challenge workshop coding challenges live here. See Resources s
 
 ## Workflow
 
-The company you're interviewing with has given you until 4:00pm today to submit your work.  All submissions should include source code and a readme that explains how their reviewers should download and run the code.  To submit, they have asked that you provide a link to your work hosted on GitHub.
+The company you're interviewing with has given you until 4:15pm today to submit your work.  All submissions should include source code and a readme that explains how their reviewers should download and run the code.  To submit, they have asked that you provide a link to your work hosted on GitHub.
 
 ## Front-End 
 
