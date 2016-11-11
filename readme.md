@@ -1,10 +1,10 @@
 # Take-Home Coding Challenge Workshop
 
-Take-home coding challenge workshop coding challenges live here. See Resources section below for slides and rubric(s).
+Take-home coding challenge workshop resources live here. Notes from the slides are in [notes.md](notes.md).  The challenge itself is below. 
 
 ## Workflow
 
-The company you're interviewing with has given you until 3:00pm today to submit your work.  All submissions should include source code and a readme that explains how their reviewers should download and run the code.  To submit, they have asked that you provide a link to your work hosted on GitHub.
+The company you're interviewing with has given you two hours to submit your work.  All submissions should include source code and a readme that explains how their reviewers should download and run the code.  To submit, they have asked that you provide a link to your work hosted on GitHub.
 
 ## Front-End 
 
@@ -14,10 +14,8 @@ The company you're interviewing with has given you until 3:00pm today to submit 
 
 [Back-end challenge](back-end): Build a RESTful API for conference talks and attendees.
 
-## Resources
+## Evaluation
 
-Refer to the [slides/notes](notes.md) from today if you'd like. 
+Feel free to check out [this general feedback form](https://docs.google.com/document/d/19AwHZFki1TTBjuz5-tn8Rrk25rmwioqnRZYpDR-hESU/edit?usp=sharing) (google doc) we'll use to go over your work.
 
-Also feel free to check out [this general feedback form](https://docs.google.com/document/d/19AwHZFki1TTBjuz5-tn8Rrk25rmwioqnRZYpDR-hESU/edit?usp=sharing) (google doc) we'll use later today to go over your work.
-
-Each challenge also includes a challenge-specific rubric you can reference as you evaluate your work.
+Each challenge also includes a challenge-specific rubric you can reference as you evaluate your work. It will highlight extra steps that candidates might take on each challenge type. 
