@@ -16,7 +16,7 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 
 ## Bonuses
 
-- Suggest and justify a change to some part of the mockup.
+- Suggest and justify a change to some part of the UI shown in the mockup (this could be for usability, accessibility, mobile users).
 - Implement another section of the mockup.
 - Use SASS or LESS and compile to CSS.   
 - Show you know General Assembly's brand.
