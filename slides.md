@@ -194,16 +194,17 @@ Award:
 - 10 points for readme
 - 10 bonus points for tests
 
+## Heirarchy of Importance
 
-## Bonus: Technical Vocabulary
+Weights vary from company to company, but here's how those priorities shake out:
 
-### Strategies
-- Look up unfamiliar or uncertain terms
-- Study (flash cards)
-- Start with a one-sentence understanding of what a thing does or is for
+A. Meeting the technical requirements.
+B. Well-organized code (with a framework, OOP, or at least functions).
+C. Clean, easy to read code.
+E. Documentation (more important for larger projects).
+F. Tests (important if required, nice to have if not). 
 
-###Sources
-- Tech news or blogs
-- Meetups, talking to devs
-- Job Postings
-- Official vocab lists
+In evaluting your coding challenge today, we'll also look at:  
+1. Problem Solving - while not specifically listed, it's one of the main things companies are trying to evaluate. Problem Solving is strongly tied to meeting technical requirements, to documentation, and to code organization.
+1. Workflow - version control can help organize any project and is especially important if coding will take more than one sitting. 
+2. Company knowledge - this is a "nice to have" that WDI alumns are often well equipped to show off because of informational interviews. 
