@@ -10,15 +10,17 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 - Use an external stylesheet.   
 - Make the navbar responsive with at least one breakpoint (your choice as to how it looks on a smaller screen width).   
 - Follow the style guidelines listed below and the mockup image.  
-- Include navbar links to information for students, teachers, and parents, as well as a sign in / sign out link.
+- Include navbar links to information for students, teachers, and parents.
 - Add buttons or links to login/logout.  Use JavaScript to control whether the login or the logout button is shown. Only one should be visible at a time.  
-- Add a CSS animations - see [https://generalassemb.ly/](https://generalassemb.ly/).
+- Add a CSS animation - see [https://generalassemb.ly](https://generalassemb.ly/) for examples of how GA uses CSS animations in current sites.
 
 ## Bonuses
 
-- Implement other portions of the site.
+- Suggest and justify a change to some part of the mockup.
+- Implement another section of the mockup.
 - Use SASS or LESS and compile to CSS.   
 - Show you know General Assembly's brand.
+
 
 ## Styling Guidelines
 
