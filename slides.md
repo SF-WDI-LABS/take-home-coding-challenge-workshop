@@ -204,7 +204,8 @@ C. Clean, easy to read code.
 E. Documentation (more important for larger projects).
 F. Tests (important if required, nice to have if not). 
 
-In evaluting your coding challenge today, we'll also look at:  
-1. Problem Solving - while not specifically listed, it's one of the main things companies are trying to evaluate. Problem Solving is strongly tied to meeting technical requirements, to documentation, and to code organization.
-1. Workflow - version control can help organize any project and is especially important if coding will take more than one sitting. 
-2. Company knowledge - this is a "nice to have" that WDI alumns are often well equipped to show off because of informational interviews. 
+In evaluating your coding challenge today, we'll also look at: 
+
+1. Problem Solving - while not specifically listed, it's one of the main things companies are trying to evaluate. Show it off by meeting technical requirements, documenting decisions, and keeping code organized.
+1. Workflow - version control can help organize any project and is especially important if coding will take more than one sitting.   
+2. Company knowledge - this is a "nice to have" that WDI alumns are often well equipped to show off because of informational interviews.   
