@@ -7,6 +7,8 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 
 ## Some of our most successful candidates...
 
+**Meet all of the requirements in the prompt.**
+
 **Communicate with potential employers using appropriate technical terms.**   
 
   - Make a *responsive* site (one that looks different - and good! - on different screen sizes).
@@ -20,9 +22,9 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
 
   - Strictly adhere to the style guidelines.
 
-  - Encapsulate login/logout bonus button feature in a function so that if a backend is added the changes required are limited to one area.
+  - Encapsulate login/logout button feature in a function or functions so that changes required for future development are limited to one area.
 
-  - Include a separate CSS file and link it properly in the head of the html document.
+  - Include a separate CSS file and link it properly in the head of the HTML document.
 
   - Include metadata like `<title>`, as well as charset, viewport, and description `<meta>` tags.
 
@@ -42,17 +44,16 @@ Use CSS, HTML, and JavaScript to develop a responsive navbar for GA's new young 
     - use the correct components from that framework (e.g.: Bootstrap's navbar, perhaps navbar-collapse).  
 
   - If not using a framework, use media queries to create responsive effect, and justify choice of breakpoint.   
+  
+  - Make changes in the mobile view that are consistent with UI design patterns - perhaps a hamburger menu, fewer images, etc.
 
-  - Bonus: Include a screenshot in the readme so it's easy to tell what was accomplished, at a glance.
+  - Bonus: Include screenshots in the readme so it's easy to tell what was accomplished, at a glance.
 
 
 
 **Demonstrate awareness of real-world technical development practices and concerns related to the target company, including testing and security.**  
 
-  - Reference existing GA site design.  
+  - Reference existing GA site design.
 
   - Improve the page with a clear indication of whether we're looking at "for students", "for parents", or "for teachers."
-
-  - If using a framework like Bootstrap, add custom CSS to distinguish this site from others using the framework.   
-
-  - Bonus: Describe basic user stories; that is, what should users be able to do with this navbar?  
+  
